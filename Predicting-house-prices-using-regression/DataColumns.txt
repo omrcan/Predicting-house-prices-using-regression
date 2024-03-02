@@ -1,0 +1,21 @@
+id: A unique identifier for each house.
+date: The date the house was sold.
+price: The selling price of the house (target variable).
+bedrooms: The number of bedrooms in the house.
+bathrooms: The number of bathrooms in the house. This number can be fractional, typically indicating a house with a toilet but no shower or bathtub.
+sqft_living: The size of the living area of the house in square feet (ft²).
+sqft_lot: The size of the lot area of the house in square feet (ft²).
+floors: The number of floors in the house.
+waterfront: A variable indicating whether the house is on the waterfront (typically a lake or seafront).
+view: An indicator of the quality of the view from the house.
+condition: An indicator of the overall condition of the house.
+grade: An evaluation of the overall quality and design of the house given by King County.
+sqft_above: The size of the living area above the ground level in square feet (ft²).
+sqft_basement: The size of the basement area of the house in square feet (ft²).
+yr_built: The year the house was built.
+yr_renovated: The year the house was last renovated. If the house has never been renovated, this value can be 0.
+zipcode: The postal code where the house is located.
+lat: The geographical latitude of the house.
+long: The geographical longitude of the house.
+sqft_living15: The size of the living area of the house in square feet (ft²) in 2015 (may have changed due to some renovations).
+sqft_lot15: The size of the lot area of the house in square feet (ft²) in 2015 (may have changed due to some renovations).
